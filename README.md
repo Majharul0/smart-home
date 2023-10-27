@@ -1,2 +1,1 @@
-# smart-home
-nothing
+# EDU Fixup
